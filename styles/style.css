@@ -211,15 +211,15 @@ blockquote {
     margin: 8px auto;
     font-family: 'EB Garamond', serif;
     font-weight: 500;
-    font-size: 1.35;
+    line-height: 1.35;
     font-size: 22px;
 }
 
 .card__text {
-font-family: Inter;
-font-weight: 400;
-font-size: 16px;
-line-height: 1.35; 
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.35; 
 }
 
 .footer {
